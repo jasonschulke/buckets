@@ -1,3 +1,5 @@
+<img width="3420" height="2156" alt="buckets" src="https://github.com/user-attachments/assets/be257e57-cd9e-4f72-b7bc-b4f36e68c095" />
+
 # Buckets
 
 A simple prioritization tool with a retro Windows 95 twist. Built for people who want a no-fuss way to sort tasks by urgency and importance.
